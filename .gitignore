@@ -1,0 +1,14 @@
+**/data
+**/exp
+**/mfcc
+mfcc/
+gfcc/
+data/
+exp/
+utt2spk
+spk2gender
+wav.scp
+text
+
+*.scp
+*.fst
