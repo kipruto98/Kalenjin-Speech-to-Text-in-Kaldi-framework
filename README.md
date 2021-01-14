@@ -2,10 +2,10 @@
 
 [https://kaldi-asr.org/doc/kaldi_for_dummies.html]
 
-This is a list of features, scripts, blogs and resources for better using Kaldi (http://kaldi-asr.org/). Please fill free to contribute by adding more links!
+This is a list of features, scripts, blogs and resources for better using Kaldi [http://kaldi-asr.org/]. Please fill free to contribute by adding more links!
 
 Good resources for beginners:
-How to start with kaldi and speech recognition - A Medium post (by me) regarding the general structure of the Kaldi project and its different parts. In my opinion you should start here.
+How to start with kaldi and speech recognition - A Medium post (by me) regarding the general structure of the Kaldi project and its different parts. #In my opinion you should start here.
 Kaldi for Dummies tutorial - The basic tutorial in the Kaldi documentation. It is really good for "hands on" experience but it is not so well explained.
 How to Train a Deep Neural Net Acoustic Model with Kaldi - A tutorial by Josh Meyer for specifically running Kaldi with DNN
 Building Speech Recognition Systems with the Kaldi Toolkit - This presentation is extremely long but also extremely helpful. Its the most complete source of information about the training process and its development.
